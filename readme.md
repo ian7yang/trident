@@ -63,7 +63,7 @@ All the instrumentation hooks are implemented with the internal probes as define
 
 ## Note
 
-To collect data at scale, you may want to build your own crawler using `Puppeteer`. We will not release our crawler as it is a customized and currently being activately maintain for multiple projects.
+To collect data at scale, you may want to build your own crawler using `Puppeteer`. We will not release our crawler as it is a customized one and currently being activately maintained and used for multiple projects.
 
 ## Paper Bibtex
 ```
